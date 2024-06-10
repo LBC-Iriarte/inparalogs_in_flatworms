@@ -3,7 +3,7 @@
 ## Overview
 This repository contains data associated with the manuscript "_Evolutionary analysis of genome-specific duplications in flatworm genomes_" (Langleib et _al_., 2024). All necessary data needed to perform the analyses described in the text can be found here, including the raw data and the resultant files (up to 100 MB, due to GitHub storage limits).
 
-Further data is available on Zenodo: https://zenodo.org/doi/10.5281/zenodo.10257625.
+Further data is available on Zenodo: **https://zenodo.org/doi/10.5281/zenodo.10257624**.
 
 ## Main directories and their content
 This repository is structured with three main directories:
